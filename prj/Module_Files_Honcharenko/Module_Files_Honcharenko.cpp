@@ -57,3 +57,4 @@ void loadFromFile(const char* filename, PhoneRecord*& head, PhoneRecord*& tail) 
     cout << "Успішно завантажено " << count << " записів з бази даних.\n";
 }
 
+
