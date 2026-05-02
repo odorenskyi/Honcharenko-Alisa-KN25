@@ -15,3 +15,4 @@ struct PhoneRecord {
 };
 
 #endif // STRUCT_TYPE_PROJECT_2_H_INCLUDED
+
