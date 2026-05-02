@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1773402954 source:c:\users\user\desktop\lab8\testdriver\main.cpp
+	<iostream>
+	<cmath>
+	"ModulesHoncharenko.h"
+
+1773402402 c:\users\user\desktop\lab8\moduleshoncharenko\moduleshoncharenko.h
+

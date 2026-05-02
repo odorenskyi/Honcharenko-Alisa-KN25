@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1773404796 source:c:\users\user\desktop\lab8\prj\honcharenko_task\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	"ModulesHoncharenko.h"
+
+1773402402 c:\users\user\desktop\lab8\moduleshoncharenko\moduleshoncharenko.h
+
