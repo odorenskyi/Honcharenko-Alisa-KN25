@@ -1,0 +1,19 @@
+--- ПОЧАТОК ТЕСТУВАННЯ ---
+[Test 1] Перевірка ініціалізації за замовчуванням:
+Expected: Width=39, Height=29.2
+Result: Width=39, Height=29.2
+
+[Test 2] Перевірка розрахунку площі (S = PI * a * b):
+Expected Area: ~894.415
+Result: 894.411
+
+[Test 3] Зміна атрибутів (валідація):
+Action: setWidth(-10.0)
+Expected: Reject (Width remains 39)
+Result: Width=39
+
+Action: setWidth(50.0), setHeight(40.0)
+Expected: Success
+Result Area: 1570.8
+
+--- ТЕСТУВАННЯ ЗАВЕРШЕНО ---
